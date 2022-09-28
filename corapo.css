@@ -53,8 +53,7 @@ ul
 }
 
     #boite_contact
-    {
-        flex-flow: 
+    { 
         border: 1px solid silver;
         padding: 10px;
         margin-right: 20px;
